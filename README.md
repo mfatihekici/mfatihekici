@@ -29,5 +29,4 @@ C# ve SQL kullanarak araç, müşteri ve bakım kayıtlarının yönetildiği bi
 
 ## Bana Ulaşın
 - E-posta: fatihekici909@gmail.com
-- LinkedIn: 
 - GitHub: https://github.com/mfatihekici
