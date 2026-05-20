@@ -1,16 +1,33 @@
-## Hi there 👋
+# Merhaba, ben Mehmet Fatih Ekici 👋
 
-<!--
-**mfatihekici/mfatihekici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gazi Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
+Makine öğrenmesi, veri bilimi ve bilgisayarlı görü alanlarına odaklanıyorum.
 
-Here are some ideas to get you started:
+## İlgi Alanlarım
+- Makine Öğrenmesi
+- Veri Bilimi
+- Computer Vision
+- YOLOv8 ile Nesne Tespiti
+- SQL ve Veri Tabanı Tasarımı
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kullandığım Teknolojiler
+- Python, C, SQL, C#
+- Pandas, NumPy, Scikit-learn
+- YOLOv8, Random Forest, XGBoost
+- Firebase, Git, GitHub
+- Google Colab
+
+## Öne Çıkan Projelerim
+### GÖKKUBBE – Yapay Zeka Tabanlı Hava Savunma Sistemi
+TEKNOFEST kapsamında YOLOv8 tabanlı nesne tespiti ve gerçek zamanlı görüntü işleme üzerine çalışıyorum.
+
+### Wine Quality Classification
+Kimyasal özelliklere göre şarap kalitesi sınıflandırması yaptığım makine öğrenmesi projesi. Random Forest ve XGBoost modelleriyle karşılaştırmalı analiz gerçekleştirdim.
+
+### Araç Servis Yönetim Sistemi
+C# ve SQL kullanarak araç, müşteri ve bakım kayıtlarının yönetildiği bir servis takip sistemi geliştirdim.
+
+## Bana Ulaşın
+- E-posta: fatihekici909@gmail.com
+- LinkedIn: 
+- GitHub: https://github.com/mfatihekici
