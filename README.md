@@ -1,6 +1,6 @@
 # Merhaba, ben Mehmet Fatih Ekici 👋
 
-Gazi Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
+Gazi Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
 Makine öğrenmesi, veri bilimi ve bilgisayarlı görü alanlarına odaklanıyorum.
 
 ## İlgi Alanlarım
